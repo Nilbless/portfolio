@@ -33,7 +33,7 @@ body{
     font-family: var(--fonte-secundaria);
     font-size: 24px;
     font-weight: 600px;
-    color: var(--cor-terciaria)
+    color: var(--cor-terciaria);
     text-decoration: none;
 }
 
